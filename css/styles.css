@@ -1,0 +1,32 @@
+header {
+  background-color: grey;
+}
+
+body {
+  background: #f5f7fa;
+  padding-top: 40;
+  padding-bottom: 40;
+  font-family: Montserrat;
+  font-size: 20px;
+}
+
+.header {
+  color: indigo;
+  font-size: 30px;
+}
+
+.title {
+  color: lawngreen;
+}
+
+.bloc {
+  color: maroon;
+}
+
+.turism {
+  color: blue;
+}
+
+.accent {
+  color: mediumpurple;
+}
