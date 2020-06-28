@@ -1,32 +1,17 @@
-header {
-  background-color: grey;
+.schedule-body > tr:hover {
+  background-color: orange;
+}
+/* Оформление таблицы */
+.schedule {
+  border-collapse: collapse;
+}
+.schedule th,
+.schedule td {
+  padding: 8px;
+  border: 1px solid #212121;
 }
 
-body {
-  background: #f5f7fa;
-  padding-top: 40;
-  padding-bottom: 40;
-  font-family: Montserrat;
-  font-size: 20px;
+p {
+  background-color: rgba(255, 0, 0, 0.3);
 }
 
-.header {
-  color: indigo;
-  font-size: 30px;
-}
-
-.title {
-  color: lawngreen;
-}
-
-.bloc {
-  color: maroon;
-}
-
-.turism {
-  color: blue;
-}
-
-.accent {
-  color: mediumpurple;
-}
